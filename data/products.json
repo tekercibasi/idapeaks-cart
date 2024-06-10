@@ -1,0 +1,182 @@
+[
+    {
+        "product_name": "IdaPeaks Olive Oil",
+        "description": "Experience the pure essence of nature with IdaPeaks Olive Oil, harvested from the lush groves of Mount Ida. Rich in antioxidants and flavor, it’s perfect for elevating your culinary creations.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Olive_Oil.jpg"],
+        "sku": "PID-ABCDEFGHI",
+        "price": 20.99,
+        "isNew": true,
+        "isCampaign": 20
+    },
+    {
+        "product_name": "IdaPeaks Reserve Wine",
+        "description": "Savor the depth and elegance of IdaPeaks Reserve Wine, crafted from the finest vineyards. This exquisite wine embodies the rich heritage and vibrant flavors of the Aegean region.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Reserve_Wine.jpg"],
+        "sku": "PID-JKLMNOPQR",
+        "price": 35.49,
+        "isNew": false,
+        "isCampaign": false
+    },
+    {
+        "product_name": "IdaPeaks Artisan Cheese",
+        "description": "Delight in the creamy and rich texture of IdaPeaks Artisan Cheese, made from organic milk. Aged to perfection, it pairs beautifully with a variety of dishes.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Artisan_Cheese.jpg"],
+        "sku": "PID-STUVWXYZA",
+        "price": 15.79,
+        "isNew": true,
+        "isCampaign": 10
+    },
+    {
+        "product_name": "IdaPeaks Natural Fruit Juice",
+        "description": "Refresh your senses with IdaPeaks Natural Fruit Juice, made from handpicked fruits. Packed with vitamins and bursting with natural flavor, it’s the perfect health-boosting beverage.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Natural_Fruit_Juice.jpg"],
+        "sku": "PID-BCDEFGHIJ",
+        "price": 7.29,
+        "isNew": false,
+        "isCampaign": 5
+    },
+    {
+        "product_name": "IdaPeaks Organic Grains",
+        "description": "Nourish your body with IdaPeaks Organic Grains, sourced from the fertile lands around Mount Ida. These grains are a wholesome addition to any meal, providing essential nutrients and great taste.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Organic_Grains.jpg"],
+        "sku": "PID-KLMNOPQRS",
+        "price": 12.49,
+        "isNew": true,
+        "isCampaign": 15
+    },
+    {
+        "product_name": "IdaPeaks Nut Mix",
+        "description": "Enjoy the crunchy goodness of IdaPeaks Nut Mix, a blend of the finest organic nuts. Perfect for snacking or adding to your favorite recipes, this mix is a delicious source of protein and energy.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Nut_Mix.jpg"],
+        "sku": "PID-TUVWXYZAB",
+        "price": 14.99,
+        "isNew": true,
+        "isCampaign": 25
+    },
+    {
+        "product_name": "IdaPeaks Pure Honey",
+        "description": "Taste the sweet, natural flavors of IdaPeaks Pure Honey. Collected from bees that pollinate the diverse flora of Mount Ida, this honey is a delightful addition to teas, desserts, and more.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Pure_Honey.jpg"],
+        "sku": "PID-CDEFGHIJK",
+        "price": 18.79,
+        "isNew": false,
+        "isCampaign": 30
+    },
+    {
+        "product_name": "IdaPeaks Herbal Tea",
+        "description": "Relax and rejuvenate with IdaPeaks Herbal Tea, a blend of handpicked herbs known for their health benefits. Each sip brings you closer to the serene landscapes of the Aegean.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Herbal_Tea.jpg"],
+        "sku": "PID-LMNOPQRST",
+        "price": 11.99,
+        "isNew": true,
+        "isCampaign": 50
+    },
+    {
+        "product_name": "IdaPeaks Organic Snack Bar",
+        "description": "Fuel your day with IdaPeaks Organic Snack Bar, packed with natural ingredients and nutrients. It’s a perfect on-the-go snack that supports your active lifestyle.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Organic_Snack_Bar.jpg"],
+        "sku": "PID-UVWXYZABC",
+        "price": 4.99,
+        "isNew": false,
+        "isCampaign": 5
+    },
+    {
+        "product_name": "IdaPeaks Vinegar",
+        "description": "Enhance your dishes with the robust flavor of IdaPeaks Vinegar. Made from the finest organic ingredients, it adds a tangy zest to salads, marinades, and more.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Vinegar.jpg"],
+        "sku": "PID-DEFGHIJKL",
+        "price": 14.49,
+        "isNew": true,
+        "isCampaign": 20
+    },
+    {
+        "product_name": "IdaPeaks Organic Jam",
+        "description": "Spread the joy with IdaPeaks Organic Jam, made from fresh, organic fruits. It’s a delicious addition to your breakfast or any meal, bringing a taste of nature to your table.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Organic_Jam.jpg"],
+        "sku": "PID-MNOPQRSTU",
+        "price": 11.29,
+        "isNew": false,
+        "isCampaign": 10
+    },
+    {
+        "product_name": "IdaPeaks Herbal Medicine",
+        "description": "Discover the healing power of nature with IdaPeaks Herbal Medicine, formulated from the finest herbs. It’s designed to support your health and well-being naturally.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Herbal_Medicine.jpg"],
+        "sku": "PID-VWXYZABCD",
+        "price": 25.99,
+        "isNew": true,
+        "isCampaign": 50
+    },
+    {
+        "product_name": "IdaPeaks Organic Yogurt",
+        "description": "Enjoy the creamy, probiotic-rich goodness of IdaPeaks Organic Yogurt. Made from organic milk, it’s perfect for a healthy snack or addition to your meals.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Organic_Yogurt.jpg"],
+        "sku": "PID-EFGHIJKLM",
+        "price": 6.49,
+        "isNew": false,
+        "isCampaign": 5
+    },
+    {
+        "product_name": "IdaPeaks Organic Soap",
+        "description": "Cleanse and nourish your skin with IdaPeaks Organic Soap, made from natural ingredients. It leaves your skin feeling soft and refreshed.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Organic_Soap.jpg"],
+        "sku": "PID-NOPQRSTUV",
+        "price": 7.99,
+        "isNew": true,
+        "isCampaign": 15
+    },
+    {
+        "product_name": "IdaPeaks Spices",
+        "description": "Add a burst of flavor to your dishes with IdaPeaks Spices, sourced from the finest organic farms. These spices are perfect for enhancing your culinary creations.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Spices.jpg"],
+        "sku": "PID-WXYZABCDE",
+        "price": 5.49,
+        "isNew": false,
+        "isCampaign": 20
+    },
+    {
+        "product_name": "IdaPeaks Dried Fruits",
+        "description": "Snack on the wholesome goodness of IdaPeaks Dried Fruits, naturally preserved to retain their flavor and nutrients. A perfect healthy snack option.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Dried_Fruits.jpg"],
+        "sku": "PID-FGHIJKLMN",
+        "price": 12.99,
+        "isNew": true,
+        "isCampaign": 25
+    },
+    {
+        "product_name": "IdaPeaks Chocolate Bar",
+        "description": "Indulge in the rich, velvety taste of IdaPeaks Chocolate Bar, made from high-quality organic cocoa. It’s a delightful treat for any chocolate lover.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Chocolate_Bar.jpg"],
+        "sku": "PID-OPQRSTUVX",
+        "price": 4.29,
+        "isNew": false,
+        "isCampaign": 10
+    },
+    {
+        "product_name": "IdaPeaks Organic Shampoo",
+        "description": "Revitalize your hair with IdaPeaks Organic Shampoo, formulated with natural ingredients. It cleanses gently while promoting healthy hair.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Organic_Shampoo.jpg"],
+        "sku": "PID-YZABCDEFG",
+        "price": 15.99,
+        "isNew": true,
+        "isCampaign": 30
+    },
+    {
+        "product_name": "IdaPeaks Fresh Produce",
+        "description": "Enjoy the freshness of IdaPeaks Fresh Produce, carefully selected and packed to ensure the highest quality. Perfect for your daily nutritional needs.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Fresh_Produce.jpg"],
+        "sku": "PID-HIJKLMNOP",
+        "price": 5.79,
+        "isNew": true,
+        "isCampaign": 50
+    },
+    {
+        "product_name": "IdaPeaks Energy Drink",
+        "description": "Boost your energy with IdaPeaks Energy Drink, a natural blend of invigorating ingredients. It’s designed to keep you energized throughout the day.",
+        "image_paths": ["./assets/images/products/IdaPeaks_Energy_Drink.jpg"],
+        "sku": "PID-QRSTUVWXZ",
+        "price": 3.49,
+        "isNew": false,
+        "isCampaign": 5
+    }
+]

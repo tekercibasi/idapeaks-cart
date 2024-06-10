@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+        <!-- Full-width Stage Slider -->
+        <div id="stage" class="" data-ride="carousel">
+
+            <div class="img-container">
+                <img src="./assets/images/stage/stage3.webp" class="d-block w-100" alt="Slide 3">
+            </div>
+        </div>
+    
+        </div>
+    
+        <div class="container my-5">
+            <header class="mb-5 text-center">
+                <h1>Discover the 
+                    atural Goodness of IdaPeaks</h1>
+                <p>Welcome to IdaPeaks, where the rich heritage and natural beauty of the Aegean region are captured in
+                    every product. Our range of organic and high-quality goods reflects our commitment to health, vitality,
+                    and sustainability. From our pure olive oils and artisanal cheeses to our refreshing fruit juices and
+                    nourishing snacks, each product is crafted with care and precision. Explore our selection and experience
+                    the essence of nature's finest offerings.</p>
+            </header>
+            <div class="row">
+                <!-- Product Cards will be dynamically inserted here by JavaScript -->
+            </div>
+        </div>
+    <div class="container mt-5">
+        <div id="login-form" class="mb-4">
+            <div class="form-group">
+                <input type="text" id="username" class="form-control" placeholder="Username">
+            </div>
+            <div class="form-group">
+                <input type="password" id="password" class="form-control" placeholder="Password">
+            </div>
+            <button id="login-button" class="btn btn-primary">Login</button>
+        </div>
+
+        <div id="search-bar" class="mb-4">
+            <input type="text" id="search-input" class="form-control" placeholder="Search for a product">
+        </div>
+
+        <div class="row" id="product-list">
+        </div>
+
+
+        <div id="mini-cart" class="mt-4 p-4 border">
+            <h3>Cart</h3>
+            <ul id="cart-items" class="list-unstyled"></ul>
+            <p>Total Items: <span id="total-items">0</span></p>
+            <p class="total-price">Total Price: $<span id="total-price">0.00</span></p>
+            <button id="add-to-cart-button" class="btn btn-success mt-4" style="display: none;">Add Selected to Cart</button>
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
